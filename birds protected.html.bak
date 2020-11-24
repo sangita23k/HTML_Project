@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Protected Birds in India</title>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<meta charset="utf-8"/>
+	</head>
+	<body>
+	  <header>
+	    <nav>
+  	    <ul>
+          <li><a href="D:\Indian bird conservation project\Home page.html">Home</a></li>
+          <li>Protected Birds</li>
+          <li><a href="D:\Indian bird conservation project\conservation.html">Conservation</a></li>
+          <li><a href="D:\Indian bird conservation project\Bird sancturies.html">Bird Sanctuaries</a></li>
+        </ul>
+	    </nav>
+	    
+	  </header>
+	  <main>
+	    
+	    <article>
+	      <h1>Birds of conservation concern in India</h1>
+        <p>
+          
+         There are a number of birds in India whose numbers are in decline.
+         Some of those with a high priority for conservation are:
+        </p>  
+        
+        <section class="topDivider darkerBackground someSpacing">
+        <h4> Indian Bustard</h4>
+        <p>The great indian bustard or Indian bustard is a bustard found on the Indian subcontinent.A large bird with
+		a horizontal body and long bare legs, giving it an ostrich like appearance</p>
+	
+        
+        <img id="sparrow" src="bustard1.jpg" alt="Barn owl landing on a branch"  class="mediumPictures" />
+        
+        </section>
+        
+        <section class="topDivider darkerBackground someSpacing">
+        <h4>Indian Volture</h4>
+        <p>The Indian vulture is medium-sized and bulky. Its body and covert feathers are pale, its flight feathers are darker. Its wings are broad and its tail feathers short. Its head and neck are almost bald, and its bill is rather long. It is 81–103 cm (32–41 in) long and has a wing span of 1.96–2.38 m (6.4–7.8 ft). Females are smaller than males.
+        </p>
+        <img src="Indian_vulture.jpg" class="smallPictures" />
+        <p>It weighs 5.5–6.3 kg (12–14 lb). It is smaller and less heavily built than the Eurasian griffon. It is distinguished from that species by its less buff body and wing coverts. It also lacks the whitish median covert bar shown by griffons.[4]
+        </p>
+        <img id="sparrow" src="Indian_vulture.jpg" class="smallPictures" />
+        </section>
+        
+        <section class="topDivider darkerBackground someSpacing" >
+        <h2>Himalayan quail</h2>
+        <p>
+          The Himalayan quail (Ophrysia superciliosa) or mountain quail, is a medium-sized quail belonging to the pheasant family. It was last reported in 1876 and is feared extinct. This species was known from only 2 locations (and 12 specimens) in the western Himalayas in Uttarakhand, north-west India. The last verifiable record was in 1876 near the hill station of Mussoorie.
+        </p>
+        <img id="sparrow" src="Himalayan quail.jpg" width="200px" />
+        </section>
+        
+        <section class="topDivider darkerBackground someSpacing">
+        <h2>Lapwing</h2>
+        <p>The Bugun liocichla (Liocichla bugunorum) is a passerine bird species from the family Leiothrichidae[2] closely related to the Emei Shan liocichla. First spotted in 1995 in Arunachal Pradesh, India, it was described as a new species in 2006. The description was made without the collection of a type specimen as they were too few to risk killing one. It is thought to be an endangered species, with a small population, and a very restricted distribution range within which commercial development threatens the habitat.</p>
+        <p>Only three breeding pairs are currently known and is listed as critically endangered</p>
+        <img id="sparrow" src="Liocichla_bugunorum.jpg" width="200px" />
+    		 </section>
+    		 
+    		 <section class="topDivider darkerBackground someSpacing">
+    		  
+  		  <h2>Other birds</h2>
+  		  
+  		  <p>Some birds are also listed as being of <strong>medium</strong> conservation concern. 
+  		  Here are some you might be familiar with:</p>
+  		    <ul>
+  		      <li>Hen Harrier</li>
+  		      <li>Puffin</li>
+  		      <li>Kestrel</li>
+  		      <li>House Sparrow</li>
+  		      <li>Kingfisher</li>
+  		    </ul>
+  		  </section>
+		  
+		  
+	    </article>
+	    
+	  </main>
+	  <footer>
+	    
+	  </footer>
+	</body>
+</html>
+

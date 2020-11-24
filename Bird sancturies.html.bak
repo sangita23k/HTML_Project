@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Bird Sanctuaries</title>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<meta charset="utf-8"/>
+	</head>
+	<body>
+	  <header>
+	    <nav>
+  	    <ul>
+          <li><a href="D:\Indian bird conservation project\Homepage.html">Home</a></li>
+          <li><a href="D:\Indian bird conservation project\birds protected.html">Protected Birds</a></li>
+          <li><a href="D:\Indian bird conservation project\conservation.html">Conservation</a></li>
+          <li>Bird Sanctuaries</li>
+        </ul>
+	    </nav>
+	    
+	  </header>
+	  <main>
+	    <p>Below are some bird sanctuaries in India.</p>
+	    <table>
+	      <tr>
+	        <th>Name</th>
+	        <th>Location</th>
+	        <th>Birds found there</th>
+	      </tr>
+	      <tr>
+	        <td>Bharatpur Bird Sanctuary</td>
+	        <td>Rajasthan</td>
+	        <td>Various species of cranes, pelicans, geese, ducks, eagles, hawks</td>
+	      </tr>
+	      <tr>
+	        <td>Sultanpur Bird Sanctuary</td>
+	        <td>Haryana</td>
+	        <td>Black-necked stork, cattle egret, laughing dove Indian roller, white-throated kingfisher, great rock pigeon, rose-ringed</td>
+	      </tr>
+	      <tr>
+	        <td>Salim Ali Bird Sanctuary</td>
+	        <td>Goa</td>
+	        <td>Drongos, cormorants, Malabar trogons, kingfishers</td>
+	      </tr>
+	    </table>
+	    
+	    
+	  </main>
+	  <footer>
+	    
+	  </footer>
+	</body>
+</html>
+
+
